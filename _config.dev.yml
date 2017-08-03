@@ -11,3 +11,5 @@ comments:
 
 sass:
   style: expanded
+
+github: [metadata] encoding: UTF-8 kramdown: input: GFM hard_wrap: false
