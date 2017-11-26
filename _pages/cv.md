@@ -23,6 +23,8 @@ Work experience
 ======
 Youtu Lab, Tencent
 
+* Large-scale Vehicle Search via Deep Ranking and Triplet Loss. <i>2017.11 - now</i>
+
 * Diabetic Retinopathy / Glaucoma detection via deep learning, <i> 2017.04 - now</i>
 
 * Multi-label Image Classifcation for Qzone, <i>2017.02 - 2017.03</i>
@@ -30,7 +32,8 @@ Youtu Lab, Tencent
 * Fu-Scanning for Spring Festival 2017, <i>2016.12 - 2017.01</i>
 
 * Text-based Image Retrieval Enhancement via Visual-based Ranking, <i>2016.8 - 2016.11</i>
-  
+
+
 Skills
 ======
 * Familiar with Python as well as scientific computation libraries such as Numpy, Sicpy and Sklearn.
@@ -57,18 +60,18 @@ Kaggle Competitions
 * Intel MobileODT Cervical Cancer Screening (Medical Image Classification). **Top 2%**.
 * Quora Question Pairs (NLP & Language Understanding). **Top 15%**.
 * Google Cloud YouTube-8M Video Understanding Challenge (Video Classification). **Top 25%**.
-  
+
 Academic Activity
 ======
 * **Reviewer for IEEE Transactions on Knowledge and Data Engineering (TKDE, Top Journal).**
 * **Reviewer for Artificial Intelligence Review.**
-  
+
 Honors in Tencent
 ======
 * Business Breakthrough Award in Tencent, 2017.
 * Technology Breakthrough Award in Tencent, 2016.
 * Knowledge Award in Tencent, 2016.
-  
+
 Honors in Education
 ======
 * **National Scholarship, 2009(Undergraduate), 2014(PhD) and 2015(PhD).**
